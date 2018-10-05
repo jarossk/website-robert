@@ -1,0 +1,152 @@
+#wrench-icon {
+  color: #f44c4c;
+  margin-right: 10px;
+  font-size: 35px;
+}
+
+#clean-hero-block {
+  background-image: url("../../assets/img/garage/break.jpg");
+  color: rgba(139, 132, 133, 0.78);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+}
+
+@media (max-width: 720px) {
+  #small-logo {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 720px) {
+  #small-logo #wrench-icon {
+    font-size: 20px;
+  }
+}
+
+#head-gasket-img {
+  background-position: center;
+  margin: 0 auto;
+  margin-left: 0px;
+  width: 27vh;
+  height: 28vh;
+}
+
+#gasket-col {
+  text-align: center;
+}
+
+#how-work {
+  text-align: center;
+}
+
+.horizontal-line {
+  width: 70%;
+  height: 2px;
+  background-color: rgb(255, 0, 0);
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 8px;
+}
+
+.clean-block.clean-hero p {
+  margin: 15px 0 15px 0;
+}
+
+#contact-items .heading-space {
+  margin-top: 36px;
+  margin-bottom: 15px;
+}
+
+#contact-items .contact-icons-space {
+  margin-right: 15px;
+  margin-left: 20px;
+  font-size: 1.5rem;
+}
+
+.card.clean-card.text-center {
+  margin-top: 15px;
+}
+
+.col.col-sm-6.footer-item {
+  color: white;
+}
+
+.clean-block.clean-hero .text {
+  background-color: rgba(0, 0, 0, 0.74);
+  border-radius: 35px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.btn.btn-outline-light.btn-lg.red-button-border {
+  border-color: red;
+}
+
+.row.contact-details {
+  margin-top: 20px;
+  text-align: center;
+}
+
+footer.page-footer {
+  bottom: 0;
+  color: #fff;
+  padding-top: 0px;
+}
+
+.page-footer.font-small {
+  font-size: .9rem;
+}
+
+.page-footer.font-small.unique-color-dark {
+  background-color: #1c2331 !important;
+}
+
+.page-footer a {
+  /*color: #3b5998!important;*/
+}
+
+.light-blue {
+  background-color: rgb(163, 186, 27);
+}
+
+.page-footer a {
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.page-footer a:hover {
+  color: rgb(255, 255, 255);
+}
+
+.small-email {
+  font-size: x-small;
+}
+
+.fa.fa-home.mr-3.icon-email {
+  font-size: 15px;
+}
+
+footer.page-footer .footer-copyright {
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.2);
+  border: none;
+}
+
+footer.page-footer .footer-copyright a:visited {
+  color: white;
+}
+
+#carousel-1 {
+  max-width: 600px;
+  max-height: 600px;
+  margin: 0 auto;
+}
+
+.carousel-item {
+  max-width: 600px;
+  max-height: 500px;
+}
